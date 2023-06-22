@@ -39,6 +39,6 @@ Bild mit Größenänderung:
 
 
 <p> 
-    <img src="/bilder/cat.png" width="100" title="Cat">
-    <em>image_caption</em>
+    <img src="/bilder/cat.png" width="100" title="Cat"><br>
+    <em>Katze</em>
 </p>
