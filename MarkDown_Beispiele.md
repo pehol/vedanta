@@ -27,7 +27,7 @@ Link zu einer Webseite: [example.com](https://www.example.com)
 Bild aus dem Projektordner
 
 ![Katzenbild](/bilder/cat.png "Cat")
-
+*Katze*
 
 Bild aus einer Webseite
 
@@ -37,4 +37,8 @@ Bild aus einer Webseite
 
 Bild mit Größenänderung:
 
-<img src="/bilder/cat.png" width="100" title="Cat">
+
+<p> 
+    <img src="/bilder/cat.png" width="100" title="Cat">
+    <em>image_caption</em>
+</p>
