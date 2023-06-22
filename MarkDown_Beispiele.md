@@ -28,4 +28,4 @@
 
 Bild mit Größenänderung:
 
-<img src=/bilder/cat.png width="100" title="Cat">
+<img src="/bilder/cat.png" width="100" title="Cat">
