@@ -21,11 +21,15 @@
 
 ---
 
-[Webseite example.com](https://www.example.com)
+Link zu einer Webseite: [example.com](https://www.example.com)
 
+
+Bild aus dem Projektordner
 
 ![Katzenbild](/bilder/cat.png "Cat")
 
+
+Bild aus einer Webseite
 
 ![Katzenbild](https://github.com/pehol/vedanta/blob/main/bilder/cat.png "Cat")
 
