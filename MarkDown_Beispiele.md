@@ -6,6 +6,18 @@ Rose
 ### H3
 
 
+*Kursiver Text*
+
+_Kursiver Text_
+
+**Fetter Text**
+
+__Fetter Text__
+
+***Kursiver und fetter Text***
+
+___Kursiver und fetter Text___
+
 **bold text**
 
 *italicized text*
