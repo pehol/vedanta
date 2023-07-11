@@ -5,9 +5,6 @@ Rose
 ## H2
 ### H3
 
-
-
-
 *Kursiver Text*
 
 _Kursiver Text_
