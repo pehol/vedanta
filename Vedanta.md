@@ -1,5 +1,20 @@
-# Titel
-# Fachbegriffe
+# Vedanta
+
+
+# Einleitung
+
+
+# Tradition
+
+
+# Meditationen und Übungen
+
+
+
+# FAQ
+
+
+# Glossar
 
 - Bewusstsein <br>
 Das unendliche, immer existierende, nicht in zwei teilbare bewusste Wesen. <br>
@@ -10,7 +25,7 @@ Synonyme: Ich, Bewusstsein, Krishna, Om ...
 - Keimzustand <br>
 
 
-- Darma <br>
+- Dharma <br>
 
 
 - Karma <br>
@@ -18,11 +33,9 @@ Synonyme: Ich, Bewusstsein, Krishna, Om ...
 
 - Sat <br>
 
+- Chit <br>
 
-- Jit <br>
-
-
-- Arnanda <br>
+- Ananda <br>
 
 - mein Mensch <br>
 
@@ -45,3 +58,6 @@ Materielle Objekte, Gedanken, Gefühle, Sinneswahrnehmungen, der Ich Gedanke, Si
 - 108 Upannishade <br>
 
 
+# Quellen
+
+- https://www.shiningworld.com/: 
