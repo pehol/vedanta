@@ -1,5 +1,9 @@
 # Vedanta
- 
+
+## Der Weg
+
+![Der Weg](bilder/der_weg.svg "Der Weg")<br>
+*Der Weg*
 
 # Einleitung
 
